@@ -1,5 +1,5 @@
 # Celebrare
-A new Flutter project made for an internship at [Celebrare](https://celebrare.in/).
+A new Flutter project made for an internship assignment at [Celebrare](https://celebrare.in/).
 
 ## Project Logo
 <div align="center">
