@@ -1,23 +1,41 @@
 # Celebrare
+A new Flutter project made for an internship at [Celebrare](https://celebrare.in/).
 
-A new Flutter project.
-this app mak for intership [Celebrare company](https://celebrare.in/).
+## Project Logo
+<div align="center">
+  <img src="asset/logo.png" alt="Project Logo" width="100" height="100">
+</div>
+
+## App Download
+Download the [APK file](app-release.apk) for Android.
 
 
-# Images :
-This is my project description.
 
-![Logo](Screenshot/step1.png)
+## Screenshots
+<div align="center">
+  <img src="Screenshot/step1.png" alt="Screenshot Step 1" height="400">
+  <img src="Screenshot/step2.jpeg" alt="Screenshot Step 2" height="400">
+  <img src="Screenshot/step3.jpeg" alt="Screenshot Step 3" height="400">
+  <img src="Screenshot/step4.jpeg" alt="Screenshot Step 4" height="400">
+  <img src="Screenshot/step5.jpeg" alt="Screenshot Step 5" height="400">
+</div>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+To install this project, follow these steps:
+1. Clone the repository.
+   ```sh
+   git clone https://github.com/a19hu/Celebrare.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Navigate to the project directory.
+   ```sh
+   cd Celebrare
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Install the dependencies.
+   ```sh
+    flutter pub get
+
+4. Run app.
+   ```sh
+   flutter run
