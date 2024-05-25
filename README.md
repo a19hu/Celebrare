@@ -1,6 +1,13 @@
-# celebrare
+# Celebrare
 
 A new Flutter project.
+this app mak for intership [Celebrare company](https://celebrare.in/).
+
+
+# Images :
+This is my project description.
+
+![Logo](Screenshot/step1.png)
 
 ## Getting Started
 
